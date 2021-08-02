@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Declalertive",
+        "repositoryURL": "https://github.com/koher/declalertive.git",
+        "state": {
+          "branch": "main",
+          "revision": "16db2b8e56ee8cefa98928dc8e9864c213d1bd8f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
